@@ -7,12 +7,12 @@
 
 ## 🚀 Hakkımda
 
+- 🏷 **19 yaşındayım.**  
 - 🖥 **Full Stack Developer'ım, fakat backend alanında daha iyiyim.**  
 - 🎯 Yazılıma **13 yaşında** başladım.  
 - 📚 **Bilişim bölümü** okudum ve **4 yıldır** kendimi geliştiriyorum.  
 - 💻 Şu anda **PHP ve Dart** dillerinde profesyonel olarak çalışıyorum.  
-- 📧 Bana ulaş: **seyitahmet2006@gmail.com**  
-
+- 📧 Bana ulaş: **Seyitahmet2006@gmail.com**  
 ---
 
 ## 🛠 **Kullandığım Teknolojiler ve Diller**
