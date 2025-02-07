@@ -16,7 +16,7 @@
 ---
 
 ## 🛠 **Kullandığım Teknolojiler ve Diller**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,androidstudio,laravel,flutter,dart,bootstrap,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,androidstudio,laravel,flutter,dart,bootstrap,py)](https://skillicons.dev)
 
 ---
 
